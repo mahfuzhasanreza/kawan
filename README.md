@@ -38,6 +38,13 @@ Our development process was inspired by various renowned mental wellness and sel
 - [BetterHelp](https://www.betterhelp.com/)
 - [BetterUp](https://www.betterup.com/)
 - [LIMITLESS](https://www.limitless.sg/)
+- Collection of Benchmark Products:
+    - https://www.verywellmind.com/best-mental-health-apps-4692902
+    - https://www.mobileappdaily.com/products/best-self-care-apps
+    - https://www.goodgoodgood.co/articles/self-care-apps
+
+### Google Servey Form
+https://docs.google.com/forms/d/1cq6acIrDxcUTPaq9_EK4uwCKQak_V_30N5rYirtoms8
 
 ### Additional Reading
 
