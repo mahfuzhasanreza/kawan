@@ -1,3 +1,6 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/mahfuzhasanreza/kawan-admin.git
+[submodule "client"]
+	path = client
+	url = https://github.com/mahfuzhasanreza/kawan-client.git
