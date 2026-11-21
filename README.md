@@ -77,6 +77,10 @@ To look around without registering, click **Continue as Guest (Demo)** on the lo
 | ![Home page](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/home.jpg) | ![AI chatbot replying to a question about exam stress](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/ai-chatbot.jpg) |
 | **E-books** | **Admin dashboard** |
 | ![E-book library](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/e-books.jpg) | ![Admin dashboard](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-admin/main/docs/screenshots/dashboard.jpg) |
+| **Meditation** | **Kawan Puzzle** |
+| ![Guided meditation timer](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/meditation.jpg) | ![Kawan Puzzle jigsaw of the KAWAN logo](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/kawan-puzzle.jpg) |
+| **Tic-Tac-Toe** | **15 Puzzle** |
+| ![Tic-Tac-Toe game against the computer](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/tic-tac-toe.jpg) | ![15 Puzzle game with timer and move counter](https://raw.githubusercontent.com/mahfuzhasanreza/kawan-client/main/docs/screenshots/fifteen-puzzle.jpg) |
 
 ---
 
