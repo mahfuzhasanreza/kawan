@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/mahfuzhasanreza/kawan-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/mahfuzhasanreza/kawan-server.git
